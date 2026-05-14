@@ -86,7 +86,7 @@ Prize payouts are handled after a winning solution is accepted and **merged**. D
 **Flow overview**
 
 1. Your winning solution is merged.
-2. You submit the payment claim through GitHub using the **[Lambda Prize payment issue template](.github/ISSUE_TEMPLATE/lambda-prize-claim.yml)**. That template links to the claim workflow and tells you what to provide.
+2. You submit the payment claim through GitHub using the **[Lambda Prize payment issue template](https://github.com/logos-co/lambda-prize/issues/new?template=lambda-prize-claim.yml)**. That template links to the claim workflow and tells you what to provide.
 3. The team verifies your claim and processes payment (prizes are paid in **USDT** on Ethereum).
 
 To complete payment, we need your **full legal name**, **country of residence**, and an **Ethereum wallet address**. Your **full legal name** and **country of residence** are required to process the payout and are **not shared with third parties**. Your **Ethereum wallet address** will be **included in your public payment claim** (the GitHub issue), so anyone can see it.
